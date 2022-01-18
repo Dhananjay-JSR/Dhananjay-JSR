@@ -46,7 +46,9 @@
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
             alt="rust" width="40" height="40" /> </a>
             <br>
-            TYPESCRIPT
+   <a href="https://www.typescriptlang.org/" target="_blank"
+        rel="noreferrer"> <img src="https://devicons.railway.app/i/typescript.svg"
+            alt="typescript" width="40" height="40" /> </a>
             <br>
             <h4 align="left">Frontend Development</h4>
             <br>
@@ -167,7 +169,8 @@
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
     <br>
-    RAILWAY
+<a href="https://railway.app/" target="_blank" rel="noreferrer"> <img
+            src="https://devicons.railway.app/i/railway-dark.svg" alt="railway" width="40" height="40" />
     <br>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>

@@ -176,7 +176,7 @@
     </a>&emsp;&emsp;-> Firebase 
             &emsp; &emsp; &emsp;
 <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img
-            src="https://devicons.railway.app/i/railway-dark.svg" alt="railway" width="40" height="40" />&emsp;&emsp;-> Railway
+            src="https://devicons.railway.app/i/railway-dark.svg" alt="railway" width="40" height="40" /></a>&emsp;&emsp;-> Railway
             &emsp; &emsp; &emsp;
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>&emsp;&emsp;-> Heroku 

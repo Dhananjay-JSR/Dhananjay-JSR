@@ -113,81 +113,89 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
             width="40" height="40" /> </a> &emsp;&emsp;-> Kotlin 
             &emsp; &emsp; &emsp;
+                        <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank"
+        rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin"
+            width="40" height="40" /> </a> &emsp;&emsp;-> Xamarin 
+            &emsp; &emsp; &emsp;
             <br>
-                        <h4 align="left">AI/ML</h4>
+                        <h2 align="left">AI/ML</h2>
             <br>
             <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a> &emsp;&emsp;-> Open CV
         <br>
-                                <h4 align="left">Database</h4>
+                                <h2 align="left">Database</h2>
             <br>
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-            <br>
+            alt="mongodb" width="40" height="40" /> </a> &emsp;&emsp;-> MongoDB 
+            &emsp; &emsp; &emsp;
 <a href="https://www.mysql.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
-            <br>
+            alt="mysql" width="40" height="40" /> </a> &emsp;&emsp;-> MySQL 
+            &emsp; &emsp; &emsp;
             <a href="https://www.postgresql.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-            <br>
-                                <h4 align="left">Data Visualization</h4>
+            alt="postgresql" width="40" height="40" /> </a> &emsp;&emsp;-> PostgreSQL 
+            &emsp; &emsp; &emsp;
+                                <h2 align="left">Data Visualization</h2>
             <br>
              <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-            width="40" height="40" /> </a>
-            <br>
+            width="40" height="40" /> </a> &emsp;&emsp;-> D3JS 
+            &emsp; &emsp; &emsp;
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /> </a>
             <br>
-            DOCKER
-            <br>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://devicons.railway.app/i/docker.svg"
+            alt="docker" width="40" height="40" /> </a> &emsp;&emsp;-> DOCKER 
+            &emsp; &emsp; &emsp;
             <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" /> </a>
-            <br>
+            height="40" /> </a>&emsp;&emsp;-> GCP 
+            &emsp; &emsp; &emsp;
              <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a>
-            <br>
+            height="40" /> </a>&emsp;&emsp;-> Kubernetes 
+            &emsp; &emsp; &emsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
-            height="40" /> </a>     
-            <br>
+            height="40" /> </a>     &emsp;&emsp;-> Bash
+            &emsp; &emsp; &emsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
             alt="azure" width="40" height="40" /> </a> 
             <br>
-                                            <h4 align="left">Backend as a Service</h4>
+                                            <h2 align="left">Backend as a Service<h2>
             <br>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <br>
+    </a>&emsp;&emsp;-> Firebase 
+            &emsp; &emsp; &emsp;
 <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img
-            src="https://devicons.railway.app/i/railway-dark.svg" alt="railway" width="40" height="40" />
-    <br>
+            src="https://devicons.railway.app/i/railway-dark.svg" alt="railway" width="40" height="40" />&emsp;&emsp;-> Railway
+            &emsp; &emsp; &emsp;
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>&emsp;&emsp;-> Heroku 
+            &emsp; &emsp; &emsp;
      <br>
-     <h4 align="left">Framework</h4>
+     <h2 align="left">Framework</h2>
     <br>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" /> </a>
-            <br>
+            alt="dotnet" width="40" height="40" /> </a>&emsp;&emsp;-> DOT NET 
+            &emsp; &emsp; &emsp;
      <br>
       <a href="https://www.electronjs.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-            alt="electron" width="40" height="40" /> </a>  
+            alt="electron" width="40" height="40" /> </a>  &emsp;&emsp;-> Electron 
+            &emsp; &emsp; &emsp;
             <br>
-     <h4 align="left">Testing</h4>
+     <h2 align="left">Testing</h2>
     <br>
     PUPPTEREE
     <br>

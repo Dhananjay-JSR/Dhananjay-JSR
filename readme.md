@@ -2,8 +2,8 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
-<h2 align="left">Skills</h3>
-<h4 align="left">Programming Languages</h4>
+<h1 align="left">Skills</h1>
+<h2 align="left">Programming Languages</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
